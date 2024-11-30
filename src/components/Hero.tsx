@@ -9,7 +9,7 @@ const Hero = () => {
          <div className='hidden lg:block'> </div>
              <div className='text-[100px] sm:text-[140px] font-bold leading-tight  flex justify-center items-center top 130px text-gray-400'>
               <div>
-                <p>I'm</p>
+                <p>I&#39;m</p>
                 <p>Sumaira</p>
                 <p>Afzal</p>
               </div>
