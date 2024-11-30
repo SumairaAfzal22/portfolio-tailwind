@@ -11,8 +11,8 @@ const Contact = () => {
          
           <div className='flex-1'>
               <h3 className='text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r
-              from-green-400 to-blue-500 mb-4'>Let's Talk</h3>
-              <p>i'm open to discussing web development projects or partnership opportunities.</p>
+              from-green-400 to-blue-500 mb-4'>Let&#39;s Talk</h3>
+              <p>i&#39;m open to discussing web development projects or partnership opportunities.</p>
               <div className='mb-4'>
                   <FaEnvelope className='inline-block text-green-400 mr-2'></FaEnvelope>
                   <a href='sameerafzalkhan76@gmail.com' className='hover:underline'>sameerafzalkhan76@gmail.com</a>
